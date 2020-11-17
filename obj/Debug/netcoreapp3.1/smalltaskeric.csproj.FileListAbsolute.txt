@@ -1,0 +1,13 @@
+C:\Users\Hui\Desktop\smalltaskeric\bin\Debug\netcoreapp3.1\smalltaskeric.exe
+C:\Users\Hui\Desktop\smalltaskeric\bin\Debug\netcoreapp3.1\smalltaskeric.deps.json
+C:\Users\Hui\Desktop\smalltaskeric\bin\Debug\netcoreapp3.1\smalltaskeric.runtimeconfig.json
+C:\Users\Hui\Desktop\smalltaskeric\bin\Debug\netcoreapp3.1\smalltaskeric.runtimeconfig.dev.json
+C:\Users\Hui\Desktop\smalltaskeric\bin\Debug\netcoreapp3.1\smalltaskeric.dll
+C:\Users\Hui\Desktop\smalltaskeric\bin\Debug\netcoreapp3.1\smalltaskeric.pdb
+C:\Users\Hui\Desktop\smalltaskeric\obj\Debug\netcoreapp3.1\smalltaskeric.csprojAssemblyReference.cache
+C:\Users\Hui\Desktop\smalltaskeric\obj\Debug\netcoreapp3.1\smalltaskeric.AssemblyInfoInputs.cache
+C:\Users\Hui\Desktop\smalltaskeric\obj\Debug\netcoreapp3.1\smalltaskeric.AssemblyInfo.cs
+C:\Users\Hui\Desktop\smalltaskeric\obj\Debug\netcoreapp3.1\smalltaskeric.csproj.CoreCompileInputs.cache
+C:\Users\Hui\Desktop\smalltaskeric\obj\Debug\netcoreapp3.1\smalltaskeric.dll
+C:\Users\Hui\Desktop\smalltaskeric\obj\Debug\netcoreapp3.1\smalltaskeric.pdb
+C:\Users\Hui\Desktop\smalltaskeric\obj\Debug\netcoreapp3.1\smalltaskeric.genruntimeconfig.cache
